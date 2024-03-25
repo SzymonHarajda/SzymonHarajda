@@ -7,9 +7,9 @@ Software Developer
 I am a Software developer who loves react!
 
 * 🌍  I'm based in Łódź
-* 🖥️  See my portfolio at [MyPortfolio](http://https://szymonharajda.github.io/Portfoliow_web/)
+* 🖥️  See my portfolio at [MyPortfolio](https://szymonharajda.github.io/Portfoliow_web/)
 * ✉️  You can contact me at [szymonharajda@gmail.com](mailto:szymonharajda@gmail.com)
-* 🚀  I'm currently working on [Clothing-app](http://main--joyful-twilight-740edd.netlify.app/)
+* 🚀  I'm currently working on [Clothing-app](https://main--joyful-twilight-740edd.netlify.app/)
 * 🧠  I'm learning TypeScript in React environment
 
 ### Skills
