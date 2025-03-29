@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Szymon Harajda and I'm a Full Stack Developer, from Poland</h2>
+<h1 align="left">Hi 👋! My name is Szymon Harajda and I'm a Full Stack Developer</h1>
 
 ###
 
 <h2 align="left">Tech Stack:</h2>
+
+###
+
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9xNjM2ZWRmbTI2d2pwa2Rzc29zcGhib3lwYmFsbWQ0dHNkNW1xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
 
 ###
 
@@ -44,9 +48,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9xNjM2ZWRmbTI2d2pwa2Rzc29zcGhib3lwYmFsbWQ0dHNkNW1xaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
-
-###
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SzymonHarajda/SzymonHarajda/output/pacman-contribution-graph-dark.svg">
