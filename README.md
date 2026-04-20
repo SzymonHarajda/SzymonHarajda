@@ -19,29 +19,30 @@ I believe now more than ever that having a strong foundation of knowledge and wo
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🛡️ Certifications
 
 **Google Cloud Platform (GCP)**
-- Google Cloud Certified - Associate Cloud Engineer
+- ✅ Google Cloud Certified - Associate Cloud Engineer
+
+**Microsoft Azure**
+- ✅ AZ-900: Azure Fundamentals
 
 🔗 [Verify my credentials on LinkedIn](https://www.linkedin.com/in/szymon-harajda/)
 
-### 🎯 Certification Goals (Azure Track)
+### 🎯 Certification Roadmap (Azure Track)
 
-I am currently focusing on expanding my multi-cloud expertise with Microsoft Azure. My certification roadmap includes:
+With the fundamentals complete, I am currently focusing on deepening my Azure expertise through the Associate and Expert levels.
 
 **Current Focus:**
-- AZ-900: Azure Fundamentals
-- AI-900: Azure AI Fundamentals
-- AZ-104: Azure Administrator Associate
-- AZ-204: Azure Developer Associate
+- [ ] AZ-104: Azure Administrator Associate
+- [ ] AZ-204: Azure Developer Associate
 
 **Next Steps / Long-term Targets:**
-- AZ-304 / AZ-305: Azure Solutions Architect
-- AI-204 / AI-102: Azure AI Engineer
+- [ ] AZ-305: Azure Solutions Architect Expert
+- [ ] AI-102: Azure AI Engineer Associate
 
 ### 📚 Interested In Learning / Currently Learning
 
